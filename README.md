@@ -17,4 +17,6 @@ A simple web application for linear regression. Users can generate data points b
 
 ## How to Run
 
-Simply open the `index.html` file in a web browser.
+* Option 1: Go to [https://emincanozcan.github.io/js-linear-regression/](https://emincanozcan.github.io/js-linear-regression/)
+
+* Option 2: Simply download and open the `index.html` file in a web browser.
